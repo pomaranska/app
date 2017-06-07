@@ -68,7 +68,7 @@ linear_merge
  OK  got: ['aa', 'bb', 'cc', 'xx', 'zz'] expected: ['aa', 'bb', 'cc', 'xx', 'zz']
  OK  got: ['aa', 'aa', 'aa', 'bb', 'bb'] expected: ['aa', 'aa', 'aa', 'bb', 'bb']
  
- 29.03:
+
 gcd:
 gcd(10,25):::
 5
@@ -189,7 +189,7 @@ Keyword: {'k': 1, 'swap': 2}
 Positional: (8, 3, 4, 5)
 Keyword: {'k': 1, 'a': 5, 'b': 'x'}
 
-10.05.2017 FUNCTIONAL PROGRAMMING
+FUNCTIONAL PROGRAMMING
 
 >>> print(function())
 [12, -2, 0]
@@ -235,9 +235,6 @@ FILTER:
 0
 >>> 
 
-
-17.05.2017
-
 alpha_score("ABCD")
 10
 >>> alpha_score("ABC")
@@ -266,9 +263,6 @@ Traceback (most recent call last):
   File "C:/Users/asiar/Desktop/17.05- zad.py", line 104, in dot_product
     assert len(u) == len(v)
 AssertionError
-
-
->>> 
 
 
 ```
